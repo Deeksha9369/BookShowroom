@@ -1,0 +1,1 @@
+import banner from '../../public/Banner1.jpg'
